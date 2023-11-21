@@ -1,4 +1,4 @@
-local worksoace = game:GetService("Workspace")
+local workspace = game:GetService("Workspace")
 local WeaponMod = false
 local Gravity = workspace.Gravity
 local GravityMod = false
